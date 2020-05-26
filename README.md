@@ -14,6 +14,7 @@ Compilation instructions:
 ->These scripts were compile on Windows 10 operating system.
 ->Open XAMPP-control app and click start apache and mysql.
 ->Click admin on apache module, a webpage will pop up.
+->Make sure to add source files into the Xamp htdocs.
 
 Script 1:
 ->type in a web address : http://localhost/one.php
