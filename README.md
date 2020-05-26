@@ -15,6 +15,7 @@ Compilation instructions:
 ->Open XAMPP-control app and click start apache and mysql.
 ->Click admin on apache module, a webpage will pop up.
 ->Make sure to add source files into the Xamp htdocs.
+->import the sql file into a database. Recommend to use phpmyadmin.
 
 Script 1:
 ->type in a web address : http://localhost/one.php
